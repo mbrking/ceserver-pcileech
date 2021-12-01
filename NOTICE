@@ -1,0 +1,15 @@
+ceserver-pcileech
+  Copyright 2021 Isabella Flores
+  Licensed under the AGPL, version 3.0
+  1c3f5bd10d1722b1d224354349df9669de5700ae
+  https://github.com/iflores/ceserver-pcileech
+
+Java Native Access
+  Java Native Access (JNA) is licensed under the LGPL, version 2.1
+  or later, or (from version 4.0 onward) the Apache License,
+  version 2.0.
+  https://github.com/java-native-access/jna
+
+JetBrains Java Annotations
+  JetBrains Java Annotations is licensed under the Apache License, version 2.0
+  https://github.com/JetBrains/java-annotations
