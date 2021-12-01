@@ -53,7 +53,9 @@ It is *recommended* that you build ceserver-pcileech yourself from its source co
 1. Open a command prompt (Win+R then type "cmd")
 2. Type "cd Desktop"
 3. Type "java -jar ceserver-pcileech.jar"
-4. The server will now be listening on the default port, 52736.
+4. Configure the server in the window that appears
+5. Press the "Start Server" button
+6. The server will now be listening on the default port, 52736.
 
 # Connecting to the server
 
