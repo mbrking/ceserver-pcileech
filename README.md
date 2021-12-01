@@ -25,7 +25,7 @@ Other functions may or may not work (likely the latter).
 * Two machines running Windows
 * [MemProcFS](https://github.com/ufrisk/MemProcFS) running on the source machine (part of the PCILeech ecosystem by Ulf Frisk)
 * Additional requirements, including possibly the purchase of a hardware FPGA card if you choose to go that route. See
-  the PCILeech documentation for your particular use case.
+  the [PCILeech documentation](https://github.com/ufrisk/pcileech/blob/master/readme.md) for your particular use case.
 
 # Installation Option #1 - Downloading the Binary
 
