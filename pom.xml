@@ -14,13 +14,13 @@
 
     <groupId>iflores</groupId>
     <artifactId>ceserver-pcileech</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <url>https://github.com/isabellaflores/ceserver-pcileech</url>
         <connection>scm:git:git://github.com/isabellaflores/ceserver-pcileech.git</connection>
         <developerConnection>scm:git:git@github.com:isabellaflores/ceserver-pcileech.git</developerConnection>
-        <tag>ceserver-pcileech-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
